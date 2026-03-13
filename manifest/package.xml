@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>RCQuoteProposalExtract_1</members>
+		<members>RCQuoteProposalTransform_1</members>
+		<name>OmniDataTransform</name>
+	</types>
+	<types>
+		<members>Sales_Proposal_Document_1</members>
+		<name>DocumentTemplate</name>
+	</types>
+	<version>66.0</version>
+</Package>
